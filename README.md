@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Marwann11
 - 👀 I’m interested in learning Css & Javascript
-- 🌱 I’m currently learning Css Grid 
+- 🌱 I’m currently learning javascript
 - ✨ I'm a beginner web developer
 - 👀 I aim to be a freelancer
 
